@@ -1,0 +1,33 @@
+body{ background: #eacd4c
+}
+
+h2 {
+    background: #f15c2f;
+    color: black
+}
+
+a {background: rgba(0, 183, 254, 0.68)
+    color: black
+}
+
+h1 {background: #009dd9;
+    color: black
+}
+
+p {background: #fbfcfd;
+    color: black
+}
+
+li {
+    background: #69c8fc;
+    color: #000001
+}
+
+ul {
+    background: #fada02;
+    color: #f15c2f;
+}
+
+img {
+    width: 400px;}
+
