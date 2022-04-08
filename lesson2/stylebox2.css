@@ -1,0 +1,67 @@
+body{
+    display: flex;
+    justify-content: center;
+
+}
+.big {
+    width: 1000px;
+    height: 450px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-sizing: border-box;
+
+}
+
+.card {
+    width: 300px;
+    height: 420px;
+    background: #fbfcfd;
+
+
+    border: 1px solid black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.head {
+    width: 90%;
+    height: 30%;
+    font-size: 25px;
+    font-family: Candara;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.text {
+    width: 90%;
+    height: 30%;
+
+    font-size: 18px;
+    font-family: Candara;
+    line-height: 25px;
+    text-align: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bttn {
+    width: 48%;
+    height: 16%;
+
+    font-size: 18px;
+    font-family: Candara;
+    box-sizing: border-box;
+    border: 1px solid black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
