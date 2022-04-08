@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.big {
+    width: 600px;
+    height: 400px;
+    background: silver;
+    display: flex;
+    flex-direction: column;
+}
+
+.light {
+    width: 100%;
+    height: 70px;
+    background: #ced8e1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.thin {
+    width: 85px;
+    height: 32px;
+    background: #152e3d;
+    border-radius: 5px;
+    display: flex;
+    }
+
+.icons {
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 17px;
+    color: #aab1cb;
+    }
+
+.fa-magnifying-glass {
+    margin-left: 200px;
+}
+
+.fa-bars {
+    margin-left: 15px;
+}
+
+
+.dark {
+    width: 100%;
+    height: 65%;
+    background: #122d3f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.purple {
+    width: 17%;
+    height: 37%;
+    background: #6a65e2;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-top: 39%;
+    z-index: 2;
+}
+
+.blue {
+    width: 100%;
+    height: 100px;
+    background: #ced8e1;
+}
+
