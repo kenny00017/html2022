@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b60e37f-f08b-4548-bfe8-dec8b4d53c3c" name="Changes" comment="lesson3/hw/1task,2task" />
+    <list default="true" id="1b60e37f-f08b-4548-bfe8-dec8b4d53c3c" name="Changes" comment="lesson3/hw/1task,2task">
+      <change afterPath="$PROJECT_DIR$/JAVA/first.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/first1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/lesson3/extra to lesson3/colblock.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/lesson3/extra to lesson3/colourblock.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/lesson4/adaptive.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/lesson4/desctop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/lesson4/mobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/img/Bart_Simpson.webp" beforeDir="false" afterPath="$PROJECT_DIR$/html/lesson1/img/Bart_Simpson.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/img/Homer_Simpson.webp" beforeDir="false" afterPath="$PROJECT_DIR$/html/lesson1/img/Homer_Simpson.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/img/Lisa_Simpson_official.webp" beforeDir="false" afterPath="$PROJECT_DIR$/html/lesson1/img/Lisa_Simpson_official.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/img/Springfield_panoramic.webp" beforeDir="false" afterPath="$PROJECT_DIR$/html/lesson1/img/Springfield_panoramic.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/lesson1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/lesson1/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/box1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/lesson2/box1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/box2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/lesson2/box2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/box3.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/lesson2/box3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/stylebox1.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/lesson2/stylebox1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/stylebox2.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/lesson2/stylebox2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/stylebox3.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/lesson2/stylebox3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/bluesel.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/lesson3/bluesel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/blueselector.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/lesson3/blueselector.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/sel1.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/lesson3/sel1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/selector1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/lesson3/selector1.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +42,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/JAVA/first.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,6 +65,11 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KOKOSIK\IdeaProjects\html2022\html" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,6 +80,12 @@
       <updated>1649064779383</updated>
       <workItem from="1649064785741" duration="77979000" />
       <workItem from="1649448405511" duration="74000" />
+      <workItem from="1649448509268" duration="132000" />
+      <workItem from="1649448931636" duration="227000" />
+      <workItem from="1649585231725" duration="19920000" />
+      <workItem from="1649918766658" duration="13760000" />
+      <workItem from="1650042486052" duration="2013000" />
+      <workItem from="1650180974948" duration="5454000" />
     </task>
     <task id="LOCAL-00001" summary="+idea">
       <created>1649146072673</created>
@@ -83,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649448443581</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lesson3/hw/1task,2task">
+      <created>1649448535569</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649448535569</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +152,19 @@
     <MESSAGE value="+idea" />
     <MESSAGE value="all files" />
     <MESSAGE value="lesson3/hw/1task" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson3/hw/1task" />
+    <MESSAGE value="lesson3/hw/1task,2task" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson3/hw/1task,2task" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JAVA/first.js</url>
+          <line>81</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

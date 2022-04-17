@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.white {
+    height: 600px;
+    width: 450px;
+    background: #9fa1a6;
+    ;
+}
+
+.header {
+    height: 50px;
+    width: 100%;
+    background: #55d5eb;
+}
+
+.column {
+    height: 60%;
+    width: 40%;
+    background: #deaa2a;
+}
+
+.thin {
+    height: 100px;
+    width: 100%;
+    background: #2db674;
+}
+
+
+.footer {
+    height: 50px;
+    width: 100%;
+    background: #fea602;
+}
