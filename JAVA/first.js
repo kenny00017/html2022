@@ -87,19 +87,16 @@ console.log(person)
 
 // - За допомогою 3х різних prompt() отримати 3 слова які являються вашими Імям, По-Батькові та роками. та вивести в консоль
 
-let user1 = {
-    frname: 'Diana',
-    lname: 'Nechaieva',
-    mname: 'Romanivna',
-    birthd: 1997
-}
+let box1 = prompt ('Diana')
+let box2 = prompt('Nechayeva')
+let box3 = prompt('Romanivna')
 
-let box = prompt ('enter' )
-console.log(user1['box'])
+let res = `${box1} ${box2} ${box3}`
+console.log (res)
 
-// - За допомогою оператора typeof визначити типи наступних змінних та вивести їх в консоль.
-//     let a = 100; let b = '100'; let c = true;
-//
+// // - За допомогою оператора typeof визначити типи наступних змінних та вивести їх в консоль.
+// //     let a = 100; let b = '100'; let c = true;
+
 let x = 100;
 console.log(typeof x);
 
@@ -108,15 +105,15 @@ console.log(typeof y);
 
 let z = true;
 console.log(typeof z);
-
-// - Створити масив об'єктів з назвою books з наступними полями  - назва, кількість сторінок, жанр, автори. Вивести кожну книгу як окремий об'єкт
-
+//
+// // - Створити масив об'єктів з назвою books з наступними полями  - назва, кількість сторінок, жанр, автори. Вивести кожну книгу як окремий об'єкт
+//
 let bookss= [
     {name: 'java', pages: 321, genre:'documental', authors: [ 'january', 'february']},
     {name: 'pyhton', pages: 123, genre:'documental', authors: [ 'march', 'april']},
     {name: 'react', pages: 444, genre:'documental', authors: [ 'june', 'july']},
 ]
 
-console.log(bookss[0])
-console.log(bookss[1])
-console.log(bookss[2])
+console.log(bookss[0]);
+console.log(bookss[1]);
+console.log(bookss[2]);
