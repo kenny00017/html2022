@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b60e37f-f08b-4548-bfe8-dec8b4d53c3c" name="Changes" comment="lesson4">
+    <list default="true" id="1b60e37f-f08b-4548-bfe8-dec8b4d53c3c" name="Changes" comment="lesson4+prompt">
+      <change afterPath="$PROJECT_DIR$/JAVA/lesson2/lessn2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/lesson2/lesson2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/first.js" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA/first.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA/first.js" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA/lesson1/first.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA/first1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA/lesson1/first1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +33,7 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/JAVA/first.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JAVA/lesson1/first.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -53,6 +56,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KOKOSIK\IdeaProjects\html2022\JAVA\lesson2" />
+      <recent name="C:\Users\KOKOSIK\IdeaProjects\html2022\JAVA\lesson1" />
       <recent name="C:\Users\KOKOSIK\IdeaProjects\html2022\html" />
     </key>
   </component>
@@ -73,7 +78,8 @@
       <workItem from="1650042486052" duration="2013000" />
       <workItem from="1650180974948" duration="5661000" />
       <workItem from="1650197815133" duration="1294000" />
-      <workItem from="1650297415546" duration="993000" />
+      <workItem from="1650297415546" duration="1929000" />
+      <workItem from="1650363232102" duration="12117000" />
     </task>
     <task id="LOCAL-00001" summary="+idea">
       <created>1649146072673</created>
@@ -124,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650188660670</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="lesson4+prompt">
+      <created>1650298659595</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1650298659595</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,15 +162,15 @@
     <MESSAGE value="lesson3/hw/1task" />
     <MESSAGE value="lesson3/hw/1task,2task" />
     <MESSAGE value="lesson4" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson4" />
+    <MESSAGE value="lesson4+prompt" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson4+prompt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/JAVA/first.js</url>
+          <url>file://$PROJECT_DIR$/JAVA/lesson1/first.js</url>
           <line>81</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
