@@ -1,7 +1,7 @@
 // - Є змінна х, якій ви надаєте довільне числове значення.
 //     Якщо змінна a не дорівнює нулю, виведіть 'Вірно', інакше виведіть 'Невірно'. Перевірте  скрипт при a, що дорівнює 1, 0, -3
 let a = 2;
-if (a != 0) {
+if (a !== 0) {
     console.log ('true')
 } else {
     console.log ('false')
@@ -31,40 +31,59 @@ if ((day>0) && (day<=10)){
 //
 // - Скласти розклад на тиждень за домопоги switch. Користувач вводить порядковий номер дня тижня і на екрані відображається інфа що заплановано на цей день (можна замість плану на день, назву дня англійською).
 let w = +prompt('type from 1 to 7 to see your task')
-switch (w){
+switch (w) {
     case 1:
-        console.log ('English classes');
+        console.log('English classes');
         break;
     case 2:
-        console.log ('dinner for family');
+        console.log('dinner for family');
         break;
     case 3:
-        console.log ('visit a doctor');
+        console.log('visit a doctor');
         break;
     case 4:
-        console.log ('help with homework');
+        console.log('help with homework');
         break;
     case 5:
-        console.log ('clean a flat');
+        console.log('clean a flat');
         break;
     case 6:
-        console.log ('IT classes');
+        console.log('IT classes');
         break;
     case 7:
-        console.log ('have a rest');
+        console.log('have a rest');
         break;
+    default:
+        console.log('??????????')
 }
 
 //     - Користувач вводить або має два числа.
 //         Потрібно знайти та вивести максимальне число з тих двох .
 //         Також потрібно врахувати коли введені рівні числа.
-let num =+prompt('1 or 2')
-if (num>=2){
-    console.log('max')
-} else if (num<2){
-    console.log ('min')
+//
+//
+let x = 1
+let y = 2
+
+if (x<y) {
+console.log(x)
+} else if (y>x) {
+    console.log(y)
+} else if ( x===y) {
+    console.log('=')
 }
-let numx =+prompt('1 or 2')
-if ((numx=1) && (numx=2)){
-    console.log ('=')
-}
+
+
+
+
+
+// let num =+prompt('1 or 2')
+// if (num>=2){
+//     console.log('max')
+// } else if (num<2){
+//     console.log ('min')
+// }
+// let numx =+prompt('1 or 2')
+// if ((numx=1) && (numx=2)){
+// //     console.log ('=')
+// }

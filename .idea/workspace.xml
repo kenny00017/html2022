@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b60e37f-f08b-4548-bfe8-dec8b4d53c3c" name="Changes" comment="lesson4+prompt">
-      <change afterPath="$PROJECT_DIR$/JAVA/lesson2/lessn2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/lesson2/lesson2.html" afterDir="false" />
+    <list default="true" id="1b60e37f-f08b-4548-bfe8-dec8b4d53c3c" name="Changes" comment="lesson4:lsn2">
+      <change afterPath="$PROJECT_DIR$/JAVA/lesson1/+++lesson1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/lesson1/les1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/first.js" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA/lesson1/first.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/first1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA/lesson1/first1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA/lesson1/first.js" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA/lesson1/first.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA/lesson2/lessn2.js" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA/lesson2/lessn2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <workItem from="1650180974948" duration="5661000" />
       <workItem from="1650197815133" duration="1294000" />
       <workItem from="1650297415546" duration="1929000" />
-      <workItem from="1650363232102" duration="12117000" />
+      <workItem from="1650363232102" duration="15872000" />
     </task>
     <task id="LOCAL-00001" summary="+idea">
       <created>1649146072673</created>
@@ -137,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650298659595</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lesson4:lsn2">
+      <created>1650379910773</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1650379910773</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,7 +170,8 @@
     <MESSAGE value="lesson3/hw/1task,2task" />
     <MESSAGE value="lesson4" />
     <MESSAGE value="lesson4+prompt" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson4+prompt" />
+    <MESSAGE value="lesson4:lsn2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson4:lsn2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
